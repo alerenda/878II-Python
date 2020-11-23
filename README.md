@@ -20,9 +20,6 @@ This will open a new page in your browser with a list of the available notebooks
 
 # Online executable versions
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alerenda/878II-Python/main)
-
-
 As long as you don't have a clean setup for local runtime, you may practice with these online executable versions:
 
 [0. Introduction to Python](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=0.%20Introduction%20to%20Python.ipynb)
