@@ -7,7 +7,7 @@ A set of lectures on computing with Python, using [Jupyter](https://jupyter.org)
 
 # Online executable versions
 
-https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=0.%20Introduction%20to%20Python.ipynb
+[0. Introduction to Python](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=0.%20Introduction%20to%20Python.ipynb)
 
 
 # Setup guide
