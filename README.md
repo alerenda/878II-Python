@@ -35,6 +35,8 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 [6_Text_Mining.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=6_Text_Mining.ipynb)
 
+You can use this *clean* notebook for practice:
+
 [Binder_Practice.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=Binder_Practice.ipynb)
 
 
@@ -42,4 +44,4 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
 
-Most of the contents are derived from the Python notebooks by Ing. Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available here
+Most of the contents are derived from the Python notebooks by Ing. Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available [here](https://github.com/jrjohansson/scientific-python-lectures)
