@@ -22,6 +22,7 @@ This will open a new page in your browser with a list of the available notebooks
 
 As long as you don't have a clean setup for local runtime, you may practice with these online executable versions:
 
+
 [1_Introduction.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=1_Introduction.ipynb)
 
 [2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
@@ -33,6 +34,9 @@ As long as you don't have a clean setup for local runtime, you may practice with
 [5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
 
 [6_Text_Mining.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=6_Text_Mining.ipynb)
+
+[Binder_Practice.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=Binder_Practice.ipynb)
+
 
 # License
 
