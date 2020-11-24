@@ -22,8 +22,9 @@ This will open a new page in your browser with a list of the available notebooks
 
 As long as you don't have a clean setup for local runtime, you may practice with these online executable versions:
 
-[0. Introduction to Python](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=0.%20Introduction%20to%20Python.ipynb)
+[1_Introduction.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=1_Introduction.ipynb)
 
+[2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
 
 
 # License
