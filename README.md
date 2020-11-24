@@ -30,6 +30,9 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 [4_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_Pandas_Tutorial.ipynb)
 
+[5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
+
+[6_Text_Mining.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=6_Text_Mining.ipynb)
 
 # License
 
