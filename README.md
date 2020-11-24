@@ -26,6 +26,8 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 [2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
 
+[3_Numpy_Matplotlib.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Numpy_Matplotlib.ipynb)
+
 
 # License
 
