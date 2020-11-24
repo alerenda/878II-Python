@@ -28,9 +28,11 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 [3_Numpy_Matplotlib.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Numpy_Matplotlib.ipynb)
 
+[4_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_Pandas_Tutorial.ipynb)
+
 
 # License
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
 
-Most of the contents are derived from the Python notebooks by Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available here
+Most of the contents are derived from the Python notebooks by Ing. Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available here
