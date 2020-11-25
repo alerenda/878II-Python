@@ -33,11 +33,12 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 [5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
 
-[6_Text_Mining.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=6_Text_Mining.ipynb)
 
-You can use this *clean* notebook for practice:
+You can use this *clean* notebook for practice (remember to download the notebook so as not to lose your progress)
 
 [Binder_Practice.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=Binder_Practice.ipynb)
+
+Alternatively, you can use [colab notebooks](https://colab.research.google.com) a jupyter-based environment provided by Google (notebooks are stored in your G-Drive)
 
 
 # License
