@@ -23,22 +23,22 @@ This will open a new page in your browser with a list of the available notebooks
 As long as you don't have a clean setup for local runtime, you may practice with these online executable versions:
 
 
-[1_Introduction.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=1_Introduction.ipynb)
+- [1_Introduction.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=1_Introduction.ipynb)
 
-[2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
+- [2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
 
-[3_Numpy_Matplotlib.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Numpy_Matplotlib.ipynb)
+- [3_Numpy_Matplotlib.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Numpy_Matplotlib.ipynb)
 
-[4_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_Pandas_Tutorial.ipynb)
+- [4_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_Pandas_Tutorial.ipynb)
 
-[5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
+- [5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
 
 
-You can use this *clean* notebook for practice (remember to download the notebook so as not to lose your progress)
+You can use the following *clean* notebook for practice (remember to download the notebook so as not to lose your progress)
 
-[Binder_Practice.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=Binder_Practice.ipynb)
+- [Binder_Practice.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=Binder_Practice.ipynb)
 
-Alternatively, you can use [colab notebooks](https://colab.research.google.com) a jupyter-based environment provided by Google (notebooks are stored in your G-Drive)
+Alternatively, you can use [Colab Notebooks](https://colab.research.google.com), a jupyter-based environment provided by Google (notebooks are stored in your G-Drive / G-Suite)
 
 
 # License
