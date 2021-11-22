@@ -27,11 +27,9 @@ As long as you don't have a clean setup for local runtime, you may practice with
 
 - [2_Python_Basics.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=2_Python_Basics.ipynb)
 
-- [3_Numpy_Matplotlib.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Numpy_Matplotlib.ipynb)
+- [3_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=3_Pandas_Tutorial.ipynb)
 
-- [4_Pandas_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_Pandas_Tutorial.ipynb)
-
-- [5_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=5_ScikitLearn_Tutorial.ipynb)
+- [4_ScikitLearn_Tutorial.ipynb](https://mybinder.org/v2/gh/alerenda/878II-Python/main?filepath=4_ScikitLearn_Tutorial.ipynb)
 
 
 You can use the following *clean* notebook for practice (remember to download the notebook so as not to lose your progress)
@@ -45,4 +43,4 @@ Alternatively, you can use [Colab Notebooks](https://colab.research.google.com),
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License.](http://creativecommons.org/licenses/by/3.0/)
 
-Most of the contents are derived from the Python notebooks by Ing. Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available [here](https://github.com/jrjohansson/scientific-python-lectures)
+Some content is derived or adapted from the Python notebooks by Ing. Nicola Tonellotto, available [here](https://github.com/tonellotto/PythonLectures/) and from the Python notebooks by J. R. Johansson, originally available [here](https://github.com/jrjohansson/scientific-python-lectures)
